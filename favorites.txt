@@ -1,0 +1,7 @@
+my favorites list:
+
+- book:
+- intro to algorithm
+
+- game:
+- tetris
